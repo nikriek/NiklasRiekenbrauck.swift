@@ -1,2 +1,2 @@
 # NiklasRiekenbrauck.swift
-I'am also a Swift class
+I am also a Swift class
